@@ -14,6 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Fun with Git!")
+            
+            Text("Another git commit?")
         }
         .padding()
     }
