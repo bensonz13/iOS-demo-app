@@ -14,7 +14,6 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Fun with Git!")
-            Image(systemName: "mail")
         }
         .padding()
     }
